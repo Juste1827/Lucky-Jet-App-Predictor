@@ -1,0 +1,24 @@
+2026/07/27-08:39:21.150 18c0 Reusing MANIFEST C:\Users\Public\PredictorAppLuckyJet\functions\user_session\Default\IndexedDB\https_1win.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/07/27-08:39:21.151 18c0 Recovering log #344
+2026/07/27-08:39:21.151 18c0 Reusing old log C:\Users\Public\PredictorAppLuckyJet\functions\user_session\Default\IndexedDB\https_1win.com_0.indexeddb.leveldb/000344.log 
+2026/07/27-08:39:21.587 367c Level-0 table #349: started
+2026/07/27-08:39:21.671 367c Level-0 table #349: 3350 bytes OK
+2026/07/27-08:39:21.792 367c Delete type=0 #344
+2026/07/27-08:39:21.793 367c Manual compaction at level-0 from '\x00c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00d\x00\x00\x00' @ 0 : 0; will stop at '\x00c\x00\x00\x05' @ 5214 : 1
+2026/07/27-08:39:21.822 367c Compacting 1@0 + 1@1 files
+2026/07/27-08:39:21.834 367c Generated table #350@0: 292 keys, 14503 bytes
+2026/07/27-08:39:21.834 367c Compacted 1@0 + 1@1 files => 14503 bytes
+2026/07/27-08:39:21.836 367c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/07/27-08:39:21.837 367c Delete type=2 #349
+2026/07/27-08:39:21.837 367c Manual compaction at level-0 from '\x00c\x00\x00\x05' @ 5214 : 1 .. '\x00d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/07/27-08:39:23.169 231c Level-0 table #352: started
+2026/07/27-08:39:23.265 231c Level-0 table #352: 3254 bytes OK
+2026/07/27-08:39:23.267 231c Delete type=2 #346
+2026/07/27-08:39:23.267 231c Delete type=0 #348
+2026/07/27-08:39:23.268 367c Manual compaction at level-0 from '\x00d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00e\x00\x00\x00' @ 0 : 0; will stop at '\x00d\x00\x00\x05' @ 5287 : 1
+2026/07/27-08:39:23.268 367c Compacting 1@0 + 1@1 files
+2026/07/27-08:39:23.330 367c Generated table #353@0: 295 keys, 14615 bytes
+2026/07/27-08:39:23.330 367c Compacted 1@0 + 1@1 files => 14615 bytes
+2026/07/27-08:39:23.334 367c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/07/27-08:39:23.335 367c Delete type=2 #352
+2026/07/27-08:39:23.336 367c Manual compaction at level-0 from '\x00d\x00\x00\x05' @ 5287 : 1 .. '\x00e\x00\x00\x00' @ 0 : 0; will stop at (end)

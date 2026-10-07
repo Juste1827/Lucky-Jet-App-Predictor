@@ -1,0 +1,24 @@
+2026/08/13-19:22:16.036 269c Reusing MANIFEST C:\Users\Public\PredictorAppLuckyJet\backend_nodejs\user_session\Default\IndexedDB\https_1win.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/13-19:22:16.037 269c Recovering log #185
+2026/08/13-19:22:16.038 269c Reusing old log C:\Users\Public\PredictorAppLuckyJet\backend_nodejs\user_session\Default\IndexedDB\https_1win.com_0.indexeddb.leveldb/000185.log 
+2026/08/13-19:22:16.084 269c Level-0 table #190: started
+2026/08/13-19:22:16.105 269c Level-0 table #190: 3360 bytes OK
+2026/08/13-19:22:16.107 269c Delete type=0 #185
+2026/08/13-19:22:16.108 269c Manual compaction at level-0 from '\x007\x00\x00\x00' @ 72057594037927935 : 1 .. '\x008\x00\x00\x00' @ 0 : 0; will stop at '\x007\x00\x00\x05' @ 3547 : 1
+2026/08/13-19:22:16.108 269c Compacting 1@0 + 1@1 files
+2026/08/13-19:22:16.113 269c Generated table #191@0: 286 keys, 11897 bytes
+2026/08/13-19:22:16.114 269c Compacted 1@0 + 1@1 files => 11897 bytes
+2026/08/13-19:22:16.115 269c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/13-19:22:16.116 269c Delete type=2 #190
+2026/08/13-19:22:16.117 269c Manual compaction at level-0 from '\x007\x00\x00\x05' @ 3547 : 1 .. '\x008\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/08/13-19:22:18.182 28f8 Level-0 table #193: started
+2026/08/13-19:22:18.202 28f8 Level-0 table #193: 3250 bytes OK
+2026/08/13-19:22:18.204 28f8 Delete type=2 #187
+2026/08/13-19:22:18.204 28f8 Delete type=0 #189
+2026/08/13-19:22:18.205 269c Manual compaction at level-0 from '\x008\x00\x00\x00' @ 72057594037927935 : 1 .. '\x009\x00\x00\x00' @ 0 : 0; will stop at '\x008\x00\x00\x05' @ 3620 : 1
+2026/08/13-19:22:18.205 269c Compacting 1@0 + 1@1 files
+2026/08/13-19:22:18.210 269c Generated table #194@0: 289 keys, 12187 bytes
+2026/08/13-19:22:18.210 269c Compacted 1@0 + 1@1 files => 12187 bytes
+2026/08/13-19:22:18.212 269c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/13-19:22:18.213 269c Delete type=2 #193
+2026/08/13-19:22:18.213 269c Manual compaction at level-0 from '\x008\x00\x00\x05' @ 3620 : 1 .. '\x009\x00\x00\x00' @ 0 : 0; will stop at (end)

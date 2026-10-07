@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253308800956",
+    "project_id": "lucky-jet-6f1bb",
+    "storage_bucket": "lucky-jet-6f1bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253308800956:android:0c86718f46949ab44125b9",
+        "android_client_info": {
+          "package_name": "com.example.predictorappluckyjet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcop8GRJru6iQ_kVLnT9zVgJ4HAeCPLYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

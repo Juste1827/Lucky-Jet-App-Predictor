@@ -1,0 +1,6 @@
+2026/07/22-22:38:53.548 3270 Reusing MANIFEST C:\Users\Public\PredictorAppLuckyJet\functions\user_session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/07/22-22:38:53.586 3270 Recovering log #111
+2026/07/22-22:38:53.589 3270 Reusing old log C:\Users\Public\PredictorAppLuckyJet\functions\user_session\Default\Local Storage\leveldb/000111.log 
+2026/07/22-22:39:53.616 2e98 Level-0 table #115: started
+2026/07/22-22:39:53.628 2e98 Level-0 table #115: 31834 bytes OK
+2026/07/22-22:39:53.633 2e98 Delete type=0 #111

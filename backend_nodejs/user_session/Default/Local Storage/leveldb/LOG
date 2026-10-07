@@ -1,0 +1,6 @@
+2026/08/13-19:22:07.764 8b8 Reusing MANIFEST C:\Users\Public\PredictorAppLuckyJet\backend_nodejs\user_session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/08/13-19:22:07.790 8b8 Recovering log #138
+2026/08/13-19:22:07.793 8b8 Reusing old log C:\Users\Public\PredictorAppLuckyJet\backend_nodejs\user_session\Default\Local Storage\leveldb/000138.log 
+2026/08/13-19:24:11.539 34ec Level-0 table #143: started
+2026/08/13-19:24:11.553 34ec Level-0 table #143: 19083 bytes OK
+2026/08/13-19:24:11.557 34ec Delete type=0 #138
